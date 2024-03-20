@@ -3,7 +3,7 @@
 1. BGP
 2. EIGRP
 3. OSPF
-4. DMVPN
-5. IPSec
-6. TCP/IP
+4. IPSec
+5. TCP/IP
+6. ICMP
 
