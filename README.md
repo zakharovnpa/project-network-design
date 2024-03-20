@@ -10,7 +10,7 @@
 - головной офис – 200 сотрудников;
 - 10 филиалов по 50 сотрудников каждый;
 - 300+ сотрудников на удаленной работе;
-- 2 [ЦОД](/project-network-design/DC) – основной и резервный.
+- 2 [ЦОД](https://github.com/zakharovnpa/project-network-design/blob/create-0.0.1/DC/README.md) – основной и резервный.
 - 
 
 2. Обеспечить для пользователей [сетевые сервисы](https://github.com/zakharovnpa/project-network-design/tree/create-0.0.1/LAN#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D1%81%D0%B5%D1%82%D0%B8): 
